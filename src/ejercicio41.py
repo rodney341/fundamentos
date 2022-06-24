@@ -3,7 +3,6 @@
 pantalla.
 '''
 lista=[]
-aux=1
 for x in range(1,1200):
     lista.append(x*x)
 
